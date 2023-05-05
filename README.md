@@ -1,2 +1,3 @@
 # Stepic_selenium
-tasks on course 
+tasks on course(dz)
+
